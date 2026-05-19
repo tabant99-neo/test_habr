@@ -18,7 +18,7 @@ pip install -r requirements.txt
 test_habr/
 ├── tests/
 │   ├── conftest.py        # Фикстуры: browser, base_url, wait
-│   ├── test_articles.py   # Тесты навигационных вкладок
+│   ├── test_tabs.py   # Тесты навигационных вкладок
 ├── requirements.txt
 └── README.md
 ```
